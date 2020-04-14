@@ -1,0 +1,16 @@
+{
+  "name": "colorful-magenta-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "This is a light and colorful theme for Atom with magenta font color.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "magenta"
+  ],
+  "repository": "https://github.com/CodeFrog12/colorful-magenta-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
