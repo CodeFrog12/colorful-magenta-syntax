@@ -1,7 +1,7 @@
 {
   "name": "colorful-magenta-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "This is a light and colorful theme for Atom with magenta font color.",
   "keywords": [
     "syntax",
