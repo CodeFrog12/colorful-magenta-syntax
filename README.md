@@ -10,6 +10,9 @@ Theme could be installed in Atom or with
   </code>
 </div>
 
+<div>
 Visit Project at <a>https://atom.io/themes/colorful-magenta-syntax</a>
+</div>
+
 
 ![A screenshot of your theme](https://github.com/CodeFrog12/colorful-magenta-syntax/blob/master/example_JS.png)
