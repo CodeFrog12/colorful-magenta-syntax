@@ -8,6 +8,6 @@ Theme could be installed in Atom or with
   apm install colorful-magenta-syntax
 </code>
 
-![A screenshot of your theme](https://github.com/CodeFrog12/colorful-magenta-syntax/blob/master/example_JS.png)
+![A screenshot of your theme](https://ibb.co/1qZHKys)
 
 Visit Project at <a>https://atom.io/themes/colorful-magenta-syntax</a>
